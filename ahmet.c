@@ -1,5 +1,6 @@
 int main(){
-	int i,j,k=4;
+
+	int i,j,k=0;
 	while(i<5){
 		i++;
 		k=i+j;
