@@ -1,9 +1,9 @@
 int main(){
 	int i,j,k;
 	while(i<5){
-		i++
+		i++;
 		k=i+j;
-	};
-	write(1,"%d",k);
+	}
+	write(1,"%d",1);
 	return 0;
 	}
